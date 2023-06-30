@@ -1,0 +1,4 @@
+black==23.3.0
+fastapi==0.95.1
+pony==0.7.16
+uvicorn[standard]==0.22.0
